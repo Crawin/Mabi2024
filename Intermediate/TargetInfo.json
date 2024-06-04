@@ -1,24 +1,14 @@
 {
 	"Targets": [
 		{
-			"Name": "DotNetPerforceLib",
-			"Path": "C:\\DownloadList\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Perforce.Native\\DotNetPerforceLib.Target.cs",
-			"Type": "Program"
-		},
-		{
-			"Name": "EventLoopUnitTests",
-			"Path": "C:\\DownloadList\\UE_5.3\\Engine\\Source\\Runtime\\Online\\Experimental\\EventLoopTests\\EventLoopUnitTests.Target.cs",
-			"Type": "Program"
-		},
-		{
-			"Name": "UnrealEditor",
-			"Path": "C:\\DownloadList\\UE_5.3\\Engine\\Source\\UnrealEditor.Target.cs",
-			"Type": "Editor"
-		},
-		{
-			"Name": "UnrealGame",
-			"Path": "C:\\DownloadList\\UE_5.3\\Engine\\Source\\UnrealGame.Target.cs",
+			"Name": "Mabi2024",
+			"Path": "..\\Source\\Mabi2024.Target.cs",
 			"Type": "Game"
+		},
+		{
+			"Name": "Mabi2024Editor",
+			"Path": "..\\Source\\Mabi2024Editor.Target.cs",
+			"Type": "Editor"
 		}
 	]
 }
